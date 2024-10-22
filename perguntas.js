@@ -1,23 +1,28 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'biologia',
+    'Qual é o objetivo da biologia?',
+    'desvendar a vida no planeta Terra, como ela começou, como ela se modificou durante a evolução histórica e aonde vamos chegar'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'biologia',
+    'Quais são as 3 áreas da biologia?',
+    ' Áreas da Biologia
+Anatomia: preocupa-se com o estudo da estrutura dos seres vivos.
+Biologia Celular: realiza o estudo das células.
+Bioquímica: responsável por estudar as reações químicas que ocorrem nos seres vivos.
+Botânica: responsável pelo estudo das plantas.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'biologia',
+    'Qual é a função do biólogo?',
+    'Estudar seres vivos, desenvolver pesquisas na área de biologia, biologia molecular, biotecnologia, biologia ambiental e epidemiologia e inventariam biodiversidade.
+    Organizar coleções biológicas, manejar recursos naturais, desenvolver atividades de educação ambiental.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'biologia',
+    'Quem foi o primeiro biólogo do mundo?',
+    'Tales de Mileto'
 )
